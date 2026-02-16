@@ -1,1 +1,1 @@
-# Tugas-Struktur-Data-MInggu-ke-2
+# Tugas-Struktur-Data-Minggu-ke-2
